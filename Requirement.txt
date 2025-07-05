@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+random forest
+linear regression
